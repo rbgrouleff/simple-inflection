@@ -1,4 +1,4 @@
-SimpleInflection = (function() {
+var SimpleInflection = (function() {
   var _uncountable_words = [
     'equipment','information','rice','money','species','series','fish','sheep',
     'moose','deer','news'
