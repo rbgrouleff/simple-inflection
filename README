@@ -1,3 +1,5 @@
 A very simple inflection API for JavaScript.
 
 See spec/simple_inflection_spec.js for examples of usage.
+
+This is released under the MIT license - and it is derived from the inflection-js Javascript inflection support (http://code.google.com/p/inflection-js/) developed by Ryan Schuft (http://code.google.com/u/ryan.schuft/).
