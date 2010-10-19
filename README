@@ -1,1 +1,3 @@
-A very simple inflection API for JavaScript
+A very simple inflection API for JavaScript.
+
+See spec/simple_inflection_spec.js for examples of usage.
